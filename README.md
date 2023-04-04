@@ -6,6 +6,7 @@
 
 - https://twitter.com/sugam110795/status/1643047760407437312
 - https://twitter.com/amitness/status/1288713405700780033
+- https://radekosmulski.com/twitter-threads
 
 ### Reference
 
@@ -18,6 +19,9 @@
 - https://github.com/jeroenjanssens/data-science-at-the-command-line
 - https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0 + https://github.com/muellerzr/Walk-with-fastai-revisited
 - https://hamel.dev/notes/fastai
+- https://rosmulski.gumroad.com/l/learn_machine_learning/blog
+- [fast.ai course notebooks](https://github.com/fastai/course22)
+
 
 ### Tool
 
@@ -29,3 +33,5 @@
 - https://github.com/bharathgs/Awesome-pytorch-list
 - https://www.fast.ai/posts/2022-07-28-nbdev2.html
 - https://hamel.dev/notes/jupyter/shortcuts.html
+- https://radekosmulski.com/an-ide-for-the-era-of-ai
+- https://radekosmulski.com/talk-to-chatgpt-from-inside-jupyter-notebook
