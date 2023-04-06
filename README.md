@@ -11,6 +11,8 @@
 ### Reference
 
 - https://course.fast.ai/Resources/book.html
+- https://leanpub.com/langchain/read
+- https://leanpub.com/pythonai/read
 - https://www.kaggle.com/code/jhoward/jupyter-notebook-101
 - https://github.com/amitness/learning#specialized-skills
 - https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
