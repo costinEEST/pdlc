@@ -10,6 +10,7 @@
 
 ### Reference
 
+- https://www.latent.space/p/not-old
 - https://course.fast.ai/Resources/book.html
 - https://leanpub.com/langchain/read
 - https://leanpub.com/pythonai/read
