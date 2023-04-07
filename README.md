@@ -24,7 +24,7 @@
 - https://hamel.dev/notes/fastai
 - https://rosmulski.gumroad.com/l/learn_machine_learning/blog
 - [fast.ai course notebooks](https://github.com/fastai/course22)
-
+- [Understanding Deep Learning | Simon J.D. Prince](https://udlbook.github.io/udlbook)
 
 ### Tool
 
