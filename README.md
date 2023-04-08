@@ -45,3 +45,4 @@
 - https://hamel.dev/notes/jupyter/shortcuts.html
 - https://radekosmulski.com/an-ide-for-the-era-of-ai
 - https://radekosmulski.com/talk-to-chatgpt-from-inside-jupyter-notebook
+- https://github.com/huggingface/pytorch-image-models
