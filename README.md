@@ -1,12 +1,17 @@
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
+- [fast.ai Part 1, 2019 & Things Jeremy says to do](https://www.youtube.com/playlist?list=PLLvvXm0q8zUanHURpzuEVEyBD0aYsRVX6)
 
 ### Community
 
 - https://twitter.com/sugam110795/status/1643047760407437312
 - https://twitter.com/amitness/status/1288713405700780033
 - https://radekosmulski.com/twitter-threads
+- https://forums.fast.ai/t/share-your-work-here/27676/3
+- https://twitter.com/math_rachel/status/1297255819965169664 + https://rachel.fast.ai/posts/2021-08-17-eleven-ethics-videos
+- https://github.com/tmabraham/awesome-fastai
+- https://twitter.com/jeremyphoward/status/1519517177883541504 + http://cups.fast.ai/fast
 
 ### Reference
 
@@ -25,6 +30,8 @@
 - https://rosmulski.gumroad.com/l/learn_machine_learning/blog
 - [fast.ai course notebooks](https://github.com/fastai/course22)
 - [Understanding Deep Learning | Simon J.D. Prince](https://udlbook.github.io/udlbook)
+- https://github.com/fastai/numerical-linear-algebra + https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
+- https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 ### Tool
 
