@@ -13,6 +13,17 @@
 - https://github.com/tmabraham/awesome-fastai
 - https://twitter.com/jeremyphoward/status/1519517177883541504 + http://cups.fast.ai/fast
 
+### Next
+
+- [Applied Machine Learning: Cornell University - CS 5785](https://kuleshov-group.github.io/aml-website)
+- https://github.com/ozanciga/diffusion-for-beginners
+- https://github.com/wandb/awesome-dl-projects
+- https://github.com/shanglianlm0525/PyTorch-Networks
+- https://github.com/lukas/ml-class
+- https://github.com/hbctraining/Training-modules
+- https://github.com/seungjaeryanlee/playing-hard-exploration-games-by-watching-youtube
+- https://github.com/EugenHotaj/pytorch-generative
+
 ### Reference
 
 - https://www.latent.space/p/not-old
