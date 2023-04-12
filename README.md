@@ -15,6 +15,7 @@
 
 ### Next
 
+- https://medium.com/@mr.acle/from-novice-to-researcher-two-years-of-deep-learning-with-fast-ai-4120fc73f9c6
 - [Applied Machine Learning: Cornell University - CS 5785](https://kuleshov-group.github.io/aml-website)
 - https://github.com/ozanciga/diffusion-for-beginners
 - https://github.com/wandb/awesome-dl-projects
@@ -47,6 +48,7 @@
 ### Tool
 
 - https://pixspy.com
+- https://arxiv-sanity-lite.com
 - https://amitness.com/toolbox
 - https://github.com/stas00/toolbox
 - https://amitness.com/vscode-on-colab
