@@ -1,7 +1,7 @@
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
-- [fast.ai Part 1, 2019 & Things Jeremy says to do](https://www.youtube.com/playlist?list=PLLvvXm0q8zUanHURpzuEVEyBD0aYsRVX6)
+- https://m.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
+- [fast.ai Part 1, 2019 & Things Jeremy says to do](https://m.youtube.com/playlist?list=PLLvvXm0q8zUanHURpzuEVEyBD0aYsRVX6)
 
 ### Community
 
@@ -24,6 +24,11 @@
 - https://github.com/hbctraining/Training-modules
 - https://github.com/seungjaeryanlee/playing-hard-exploration-games-by-watching-youtube
 - https://github.com/EugenHotaj/pytorch-generative
+- [How to get started with Machine Learning](https://m.youtube.com/watch?v=7q_OJvQQ7vY&list=PLBoQnSflObcmr--O9N_zMxULedpuw5TtE)
+- https://m.youtube.com/@FullStackDeepLearning/playlists?view=1&sort=lad&flow=grid
+- https://github.com/alirezadir/Machine-Learning-Interviews
+- https://github.com/Atcold/pytorch-Deep-Learning
+- https://github.com/sachinruk/deepschool.io + https://www.youtube.com/playlist?list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz
 
 ### Reference
 
@@ -42,11 +47,18 @@
 - https://rosmulski.gumroad.com/l/learn_machine_learning/blog
 - [fast.ai course notebooks](https://github.com/fastai/course22)
 - [Understanding Deep Learning | Simon J.D. Prince](https://udlbook.github.io/udlbook)
-- https://github.com/fastai/numerical-linear-algebra + https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
+- https://github.com/fastai/numerical-linear-algebra + https://m.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
+- [MATHEMATICS FOR MACHINE LEARNING | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong](https://mml-book.github.io/book/mml-book.pdf)
+- [Deep Learning Book | Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
+- https://www.turing.com/kb/julia-vs-python + https://towardsai.net/p/l/can-julia-replace-python-a-data-comparison + [Julia it's more like Common Lisp meets Matlab meets Python](https://wandb.ai/wandb_fc/gradient-dissent/reports/The-story-of-Fast-ai-why-Python-is-not-the-future-of-ML-with-Jeremy-Howard--Vmlldzo2MzM2MTc?galleryTag=gradient-dissent)
+- https://github.com/wandb/edu/tree/main/math-for-ml
 
 ### Tool
 
+- https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e + https://pytorchstepbystep.com + https://github.com/gordicaleksa/pytorch-deepdream/blob/master/playground.py + https://m.youtube.com/watch?v=2n_uoGOPoVk&list=PLBoQnSflObcmr--O9N_zMxULedpuw5TtE&index=2
+- https://madewithml.com/courses/foundations/pytorch
+- https://madewithml.com/courses/foundations/notebooks
 - https://pixspy.com
 - https://arxiv-sanity-lite.com
 - https://amitness.com/toolbox
@@ -59,3 +71,4 @@
 - https://radekosmulski.com/an-ide-for-the-era-of-ai
 - https://radekosmulski.com/talk-to-chatgpt-from-inside-jupyter-notebook
 - https://github.com/huggingface/pytorch-image-models
+- https://jakevdp.github.io/PythonDataScienceHandbook/index.html
