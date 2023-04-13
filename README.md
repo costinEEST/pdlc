@@ -29,6 +29,7 @@
 - https://github.com/alirezadir/Machine-Learning-Interviews
 - https://github.com/Atcold/pytorch-Deep-Learning
 - https://github.com/sachinruk/deepschool.io + https://www.youtube.com/playlist?list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz
+- https://github.com/andkret/Cookbook
 
 ### Reference
 
