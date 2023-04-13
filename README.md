@@ -67,6 +67,7 @@
 - https://amitness.com/vscode-on-colab
 - https://github.com/delip/PyTorchNLPBook
 - https://github.com/bharathgs/Awesome-pytorch-list
+- https://github.com/vahidk/EffectivePyTorch + https://effectivemachinelearning.com/PyTorch
 - https://www.fast.ai/posts/2022-07-28-nbdev2.html
 - https://hamel.dev/notes/jupyter/shortcuts.html
 - https://radekosmulski.com/an-ide-for-the-era-of-ai
