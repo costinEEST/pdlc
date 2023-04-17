@@ -81,3 +81,6 @@
 - https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 - https://github.com/mrdbourke/pytorch-deep-learning + https://youtu.be/Z_ikDlimN6A
 - https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning
+- [PyTorch Crash Course - Getting Started with Deep Learning](https://colab.research.google.com/drive/1eiUBpmQ4m7Lbxqi2xth1jBaL61XTKdxp)
+- https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2023
+- [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
