@@ -30,11 +30,13 @@
 - https://github.com/Atcold/pytorch-Deep-Learning
 - https://github.com/sachinruk/deepschool.io + https://www.youtube.com/playlist?list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz
 - https://github.com/andkret/Cookbook
+- https://www.mrdbourke.com/ml-resources
 
 ### Reference
 
 - https://www.latent.space/p/not-old
-- https://course.fast.ai/Resources/book.html
+- https://sebastianraschka.com/faq
+- https://course.fast.ai/Resources/book.html + https://github.com/ThinamXx/Fastai + https://github.com/murilogustineli/fast.ai
 - https://leanpub.com/langchain/read
 - https://leanpub.com/pythonai/read
 - https://www.kaggle.com/code/jhoward/jupyter-notebook-101
@@ -54,6 +56,9 @@
 - [Deep Learning Book | Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
 - https://www.turing.com/kb/julia-vs-python + https://towardsai.net/p/l/can-julia-replace-python-a-data-comparison + [Julia it's more like Common Lisp meets Matlab meets Python](https://wandb.ai/wandb_fc/gradient-dissent/reports/The-story-of-Fast-ai-why-Python-is-not-the-future-of-ML-with-Jeremy-Howard--Vmlldzo2MzM2MTc?galleryTag=gradient-dissent)
 - https://github.com/wandb/edu/tree/main/math-for-ml
+- [Math And NumPy Fundamentals For Deep Learning](https://www.youtube.com/watch?v=5zbTnOd_53g&list=PL6UJrXaOPPcGhjObe79GaYzLV1Ss3pPxA&index=2) + https://github.com/VikParuchuri/zero_to_gpt
+- https://www.udemy.com/course/openai-api-chatgpt-gpt4-with-python-bootcamp
+- https://datatalks.club/books.html
 
 ### Tool
 
@@ -74,3 +79,5 @@
 - https://radekosmulski.com/talk-to-chatgpt-from-inside-jupyter-notebook
 - https://github.com/huggingface/pytorch-image-models
 - https://jakevdp.github.io/PythonDataScienceHandbook/index.html
+- https://github.com/mrdbourke/pytorch-deep-learning + https://youtu.be/Z_ikDlimN6A
+- https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning
