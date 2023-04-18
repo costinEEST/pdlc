@@ -50,6 +50,7 @@
 - https://rosmulski.gumroad.com/l/learn_machine_learning/blog
 - [fast.ai course notebooks](https://github.com/fastai/course22)
 - [Understanding Deep Learning | Simon J.D. Prince](https://udlbook.github.io/udlbook)
+- https://d2l.ai + https://github.com/d2l-ai/d2l-en + https://twitter.com/astonzhangAZ/status/1603423878360899584
 - https://github.com/fastai/numerical-linear-algebra + https://m.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - [MATHEMATICS FOR MACHINE LEARNING | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong](https://mml-book.github.io/book/mml-book.pdf)
