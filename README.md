@@ -60,6 +60,7 @@
 - [Math And NumPy Fundamentals For Deep Learning](https://www.youtube.com/watch?v=5zbTnOd_53g&list=PL6UJrXaOPPcGhjObe79GaYzLV1Ss3pPxA&index=2) + https://github.com/VikParuchuri/zero_to_gpt
 - https://www.udemy.com/course/openai-api-chatgpt-gpt4-with-python-bootcamp
 - https://datatalks.club/books.html
+- https://github.com/Shubhamsaboo/kairos_gpt3
 
 ### Tool
 
