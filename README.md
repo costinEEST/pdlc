@@ -53,11 +53,16 @@
 - https://d2l.ai + https://github.com/d2l-ai/d2l-en + https://twitter.com/astonzhangAZ/status/1603423878360899584
 - https://github.com/fastai/numerical-linear-algebra + https://m.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
+- https://aman.ai/primers/math
 - [MATHEMATICS FOR MACHINE LEARNING | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong](https://mml-book.github.io/book/mml-book.pdf)
 - [Deep Learning Book | Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
 - https://www.turing.com/kb/julia-vs-python + https://towardsai.net/p/l/can-julia-replace-python-a-data-comparison + [Julia it's more like Common Lisp meets Matlab meets Python](https://wandb.ai/wandb_fc/gradient-dissent/reports/The-story-of-Fast-ai-why-Python-is-not-the-future-of-ML-with-Jeremy-Howard--Vmlldzo2MzM2MTc?galleryTag=gradient-dissent)
 - https://github.com/wandb/edu/tree/main/math-for-ml
+- https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists
+- https://aman.ai/primers/python
+- https://aman.ai/primers/matplotlib
 - [Math And NumPy Fundamentals For Deep Learning](https://www.youtube.com/watch?v=5zbTnOd_53g&list=PL6UJrXaOPPcGhjObe79GaYzLV1Ss3pPxA&index=2) + https://github.com/VikParuchuri/zero_to_gpt
+- https://aman.ai/primers/numpy
 - https://www.udemy.com/course/openai-api-chatgpt-gpt4-with-python-bootcamp
 - https://datatalks.club/books.html
 - https://github.com/Shubhamsaboo/kairos_gpt3
@@ -65,6 +70,7 @@
 ### Tool
 
 - https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e + https://pytorchstepbystep.com + https://github.com/gordicaleksa/pytorch-deepdream/blob/master/playground.py + https://m.youtube.com/watch?v=2n_uoGOPoVk&list=PLBoQnSflObcmr--O9N_zMxULedpuw5TtE&index=2
+- https://github.com/ritchieng/the-incredible-pytorch
 - https://madewithml.com/courses/foundations/pytorch
 - https://madewithml.com/courses/foundations/notebooks
 - https://pixspy.com
@@ -72,6 +78,7 @@
 - https://amitness.com/toolbox
 - https://github.com/stas00/toolbox
 - https://amitness.com/vscode-on-colab
+- https://aman.ai/primers/pytorch
 - https://github.com/delip/PyTorchNLPBook
 - https://github.com/bharathgs/Awesome-pytorch-list
 - https://github.com/vahidk/EffectivePyTorch + https://effectivemachinelearning.com/PyTorch
